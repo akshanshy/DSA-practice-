@@ -31,4 +31,20 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/akshanshy/DSA-practice-/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/akshanshy/DSA-practice-/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/akshanshy/DSA-practice-/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/akshanshy/DSA-practice-/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/akshanshy/DSA-practice-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
