@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshanshy/DSA-practice-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/akshanshy/DSA-practice-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/akshanshy/DSA-practice-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akshanshy/DSA-practice-/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/akshanshy/DSA-practice-/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/akshanshy/DSA-practice-/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
