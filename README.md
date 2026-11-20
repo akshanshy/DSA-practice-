@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akshanshy/DSA-practice-/tree/master/0053-maximum-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshanshy/DSA-practice-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/akshanshy/DSA-practice-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/akshanshy/DSA-practice-/tree/master/3364-minimum-positive-sum-subarray) |
@@ -23,6 +24,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akshanshy/DSA-practice-/tree/master/0053-maximum-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshanshy/DSA-practice-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/akshanshy/DSA-practice-/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/akshanshy/DSA-practice-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
