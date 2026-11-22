@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshanshy/DSA-practice-/tree/master/0053-maximum-subarray) |
+| [0134-gas-station](https://github.com/akshanshy/DSA-practice-/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/akshanshy/DSA-practice-/tree/master/0238-product-of-array-except-self) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshanshy/DSA-practice-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/akshanshy/DSA-practice-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -55,6 +56,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/akshanshy/DSA-practice-/tree/master/0134-gas-station) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/akshanshy/DSA-practice-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
 |  |
