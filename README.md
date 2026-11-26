@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshanshy/DSA-practice-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/akshanshy/DSA-practice-/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/akshanshy/DSA-practice-/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/akshanshy/DSA-practice-/tree/master/0238-product-of-array-except-self) |
@@ -33,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshanshy/DSA-practice-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/akshanshy/DSA-practice-/tree/master/0053-maximum-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshanshy/DSA-practice-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## String
@@ -55,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshanshy/DSA-practice-/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/akshanshy/DSA-practice-/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -89,4 +92,12 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/akshanshy/DSA-practice-/tree/master/3411-maximum-subarray-with-equal-products) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/akshanshy/DSA-practice-/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/akshanshy/DSA-practice-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
